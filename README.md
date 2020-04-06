@@ -26,4 +26,4 @@ Desenvolver um aplicativo para que um usuário possa armazenar localizações de
 
 Que tal fazer os desafios bronze e prata, mas utilizando SwiftUI? Faça também uma reflexão sobre quais são suas impressões sobre a mudança de framework.
 
-> [license MIT](LICENSE_MIT.txt) - [license CC](LICENSE_CC-BY-NC-ND.md)
+> [license MIT](LICENSE_MIT.md) - [license CC](LICENSE_CC-BY-NC-ND.md)
